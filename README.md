@@ -24,7 +24,7 @@
 - **Frameworks & Libraries:** PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers, FastAPI, NumPy, Pandas
 - **Tools:** Git, GitHub, Docker, Kubernetes, Linux, MLflow
 - **AI/ML:** NLP, Computer Vision, Distributed Training, Model Optimization, Feature Engineering, Model Evaluation 
-- **DGen AI & Agentic AI:** ALLMs, RAG, AI Agents, MCP, LLM Evaluation, Tool Calling, Embeddings, Vector Search, Fine-tuning, LoRA/QLoRA, LangChain, LangGraph
+- **Gen AI & Agentic AI:** ALLMs, RAG, AI Agents, MCP, LLM Evaluation, Tool Calling, Embeddings, Vector Search, Fine-tuning, LoRA/QLoRA, LangChain, LangGraph
 - **Cloud & MLOps:** AWS, GCP, Kubernetes, Docker, Terraform, CI/CD, MLflow, SageMaker
 - **Databases:** MySQL, Redis, Elasticsearch, Snowflake, BigQuery, Vector Databases (FAISS, pgvector, Pinecone)
 
